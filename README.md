@@ -4,6 +4,8 @@ A rubric-based grading system for Smart India Hackathon idea presentations.
 
 ## Current Status (Initial Setup Complete)
 
+**Session 1** | **Date:** September 1, 2026 | **Author:** Arnav
+
 Welcome to the team! The initial project foundation has been laid out. Here is what has been accomplished in the first session and what is currently in the repository:
 
 1. **Contracts (`contracts/`)**: The core Pydantic models have been defined. This includes `SlideDigest` (the parsed deck representation), `EvidenceRef`, `AxisResult`, and the final `Report`. **Remember: The contracts folder is shared and frozen.**
